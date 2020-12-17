@@ -353,3 +353,5 @@ def engine_barplot(df, df_exp, df_count):
     )
 
     return fig
+
+
