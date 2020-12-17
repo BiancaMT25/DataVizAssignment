@@ -1,0 +1,285 @@
+Constructor,year,engine,constructorId,name,constructorRef
+benetton-renault,1995,renault,22,benetton,benetton
+tyrrell-yamaha,1995,yamaha,25,tyrrell,tyrrell
+williams-renault,1995,renault,3,williams,williams
+mclaren-mercedes,1995,mercedes,1,mclaren,mclaren
+footwork-hart,1995,hart,29,footwork,footwork
+simtek-ford,1995,ford,31,simtek,simtek
+jordan-peugeot,1995,peugeot,17,jordan,jordan
+pacific-ford,1995,ford,30,pacific,pacific
+larrousse-ford,1995,ford,33,larrousse,larrousse
+forti-ford,1995,ford,28,forti,forti
+minardi-ford,1995,ford,18,minardi,minardi
+ligier-mugen-honda,1995,mugen,27,ligier,ligier
+ferrari,1995,ferrari,6,ferrari,ferrari
+sauber-ford,1995,ford,15,sauber,sauber
+ferrari,1996,ferrari,6,ferrari,ferrari
+benetton-renault,1996,renault,22,benetton,benetton
+williams-renault,1996,renault,3,williams,williams
+mclaren-mercedes,1996,mercedes,1,mclaren,mclaren
+ligier-mugen-honda,1996,mugen,27,ligier,ligier
+jordan-peugeot,1996,peugeot,17,jordan,jordan
+sauber-ford,1996,ford,15,sauber,sauber
+footwork-hart,1996,hart,29,footwork,footwork
+tyrrell-yamaha,1996,yamaha,25,tyrrell,tyrrell
+minardi-ford,1996,ford,18,minardi,minardi
+forti-ford,1996,ford,28,forti,forti
+arrows-yamaha,1997,yamaha,21,arrows,arrows
+williams-renault,1997,renault,3,williams,williams
+ferrari,1997,ferrari,6,ferrari,ferrari
+benetton-renault,1997,renault,22,benetton,benetton
+mclaren-mercedes,1997,mercedes,1,mclaren,mclaren
+jordan-peugeot,1997,peugeot,17,jordan,jordan
+prost-mugen-honda,1997,mugen,20,prost,prost
+sauber-petronas,1997,petronas,15,sauber,sauber
+tyrrell-ford,1997,ford,25,tyrrell,tyrrell
+minardi-hart,1997,hart,18,minardi,minardi
+stewart-ford,1997,ford,24,stewart,stewart
+lola-ford,1997,ford,26,lola,lola
+williams-mecachrome,1998,mecachrome,3,williams,williams
+ferrari,1998,ferrari,6,ferrari,ferrari
+benetton-playlife,1998,playlife,22,benetton,benetton
+mclaren-mercedes,1998,mercedes,1,mclaren,mclaren
+jordan-mugen-honda,1998,mugen,17,jordan,jordan
+prost-peugeot,1998,peugeot,20,prost,prost
+sauber-petronas,1998,petronas,15,sauber,sauber
+arrows,1998,arrows,21,arrows,arrows
+stewart-ford,1998,ford,24,stewart,stewart
+tyrrell-ford,1998,ford,25,tyrrell,tyrrell
+minardi-ford,1998,ford,18,minardi,minardi
+mclaren-mercedes,1999,mercedes,1,mclaren,mclaren
+ferrari,1999,ferrari,6,ferrari,ferrari
+williams-supertec,1999,supertec,3,williams,williams
+jordan-mugen-honda,1999,mugen,17,jordan,jordan
+benetton-playlife,1999,playlife,22,benetton,benetton
+sauber-petronas,1999,petronas,15,sauber,sauber
+arrows,1999,arrows,21,arrows,arrows
+stewart-ford,1999,ford,24,stewart,stewart
+prost-peugeot,1999,peugeot,20,prost,prost
+minardi-ford,1999,ford,18,minardi,minardi
+bar-supertec,1999,supertec,16,bar,bar
+mclaren-mercedes,2000,mercedes,1,mclaren,mclaren
+ferrari,2000,ferrari,6,ferrari,ferrari
+jordan-mugen-honda,2000,mugen,17,jordan,jordan
+jaguar-cosworth,2000,cosworth,19,jaguar,jaguar
+williams-bmw,2000,bmw,3,williams,williams
+benetton-playlife,2000,playlife,22,benetton,benetton
+prost-peugeot,2000,peugeot,20,prost,prost
+sauber-petronas,2000,petronas,15,sauber,sauber
+arrows-supertec,2000,supertec,21,arrows,arrows
+minardi-fondmetal,2000,fondmetal,18,minardi,minardi
+bar-honda,2000,honda,16,bar,bar
+ferrari,2001,ferrari,6,ferrari,ferrari
+mclaren-mercedes,2001,mercedes,1,mclaren,mclaren
+williams-bmw,2001,bmw,3,williams,williams
+benetton-renault,2001,renault,22,benetton,benetton
+bar-honda,2001,honda,16,bar,bar
+jordan-honda,2001,honda,17,jordan,jordan
+arrows-asiatech,2001,asiatech,21,arrows,arrows
+sauber-petronas,2001,petronas,15,sauber,sauber
+jaguar-cosworth,2001,cosworth,19,jaguar,jaguar
+minardi-european,2001,european,18,minardi,minardi
+prost-acer,2001,acer,20,prost,prost
+ferrari,2002,ferrari,6,ferrari,ferrari
+mclaren-mercedes,2002,mercedes,1,mclaren,mclaren
+williams-bmw,2002,bmw,3,williams,williams
+sauber-petronas,2002,petronas,15,sauber,sauber
+jordan-honda,2002,honda,17,jordan,jordan
+bar-honda,2002,honda,16,bar,bar
+renault,2002,renault,4,renault,renault
+jaguar-cosworth,2002,cosworth,19,jaguar,jaguar
+arrows-cosworth,2002,cosworth,21,arrows,arrows
+minardi-asiatech,2002,asiatech,18,minardi,minardi
+toyota,2002,toyota,7,toyota,toyota
+ferrari,2003,ferrari,6,ferrari,ferrari
+williams-bmw,2003,bmw,3,williams,williams
+mclaren-mercedes,2003,mercedes,1,mclaren,mclaren
+renault,2003,renault,4,renault,renault
+sauber-petronas,2003,petronas,15,sauber,sauber
+jordan-ford,2003,ford,17,jordan,jordan
+jaguar-cosworth,2003,cosworth,19,jaguar,jaguar
+bar-honda,2003,honda,16,bar,bar
+minardi-cosworth,2003,cosworth,18,minardi,minardi
+toyota,2003,toyota,7,toyota,toyota
+ferrari,2004,ferrari,6,ferrari,ferrari
+williams-bmw,2004,bmw,3,williams,williams
+mclaren-mercedes,2004,mercedes,1,mclaren,mclaren
+renault,2004,renault,4,renault,renault
+bar-honda,2004,honda,16,bar,bar
+sauber-petronas,2004,petronas,15,sauber,sauber
+jaguar-cosworth,2004,cosworth,19,jaguar,jaguar
+toyota,2004,toyota,7,toyota,toyota
+jordan-ford,2004,ford,17,jordan,jordan
+minardi-cosworth,2004,cosworth,18,minardi,minardi
+ferrari,2005,ferrari,6,ferrari,ferrari
+bar-honda,2005,honda,16,bar,bar
+renault,2005,renault,4,renault,renault
+williams-bmw,2005,bmw,3,williams,williams
+mclaren-mercedes,2005,mercedes,1,mclaren,mclaren
+sauber-petronas,2005,petronas,15,sauber,sauber
+red bull-cosworth,2005,cosworth,9,red bull,red_bull
+toyota,2005,toyota,7,toyota,toyota
+jordan-toyota,2005,toyota,17,jordan,jordan
+minardi-cosworth,2005,cosworth,18,minardi,minardi
+renault,2006,renault,4,renault,renault
+mclaren-mercedes,2006,mercedes,1,mclaren,mclaren
+ferrari,2006,ferrari,6,ferrari,ferrari
+toyota,2006,toyota,7,toyota,toyota
+williams-cosworth,2006,cosworth,3,williams,williams
+honda,2006,honda,11,honda,honda
+red bull-ferrari,2006,ferrari,9,red bull,red_bull
+bmw sauber,2006,bmw sauber,2,bmw sauber,bmw_sauber
+mf1-toyota,2006,toyota,13,mf1,mf1
+toro rosso-cosworth,2006,cosworth,5,toro rosso,toro_rosso
+super aguri-honda,2006,honda,8,super aguri,super_aguri
+mclaren-mercedes,2007,mercedes,1,mclaren,mclaren
+renault,2007,renault,4,renault,renault
+ferrari,2007,ferrari,6,ferrari,ferrari
+honda,2007,honda,11,honda,honda
+bmw sauber,2007,bmw sauber,2,bmw sauber,bmw_sauber
+toyota,2007,toyota,7,toyota,toyota
+red bull-renault,2007,renault,9,red bull,red_bull
+williams-toyota,2007,toyota,3,williams,williams
+toro rosso-ferrari,2007,ferrari,5,toro rosso,toro_rosso
+spyker-ferrari,2007,ferrari,12,spyker,spyker
+super aguri-honda,2007,honda,8,super aguri,super_aguri
+ferrari,2008,ferrari,6,ferrari,ferrari
+bmw sauber,2008,bmw sauber,2,bmw sauber,bmw_sauber
+renault,2008,renault,4,renault,renault
+williams-toyota,2008,toyota,3,williams,williams
+red bull-renault,2008,renault,9,red bull,red_bull
+toyota,2008,toyota,7,toyota,toyota
+toro rosso-ferrari,2008,ferrari,5,toro rosso,toro_rosso
+honda,2008,honda,11,honda,honda
+super aguri-honda,2008,honda,8,super aguri,super_aguri
+force india-ferrari,2008,ferrari,10,force india,force_india
+mclaren-mercedes,2008,mercedes,1,mclaren,mclaren
+mclaren-mercedes,2009,mercedes,1,mclaren,mclaren
+ferrari,2009,ferrari,6,ferrari,ferrari
+bmw sauber,2009,bmw sauber,2,bmw sauber,bmw_sauber
+renault,2009,renault,4,renault,renault
+toyota,2009,toyota,7,toyota,toyota
+toro rosso-ferrari,2009,ferrari,5,toro rosso,toro_rosso
+red bull-renault,2009,renault,9,red bull,red_bull
+williams-toyota,2009,toyota,3,williams,williams
+force india-mercedes,2009,mercedes,10,force india,force_india
+brawn-mercedes,2009,mercedes,23,brawn,brawn
+mclaren-mercedes,2010,mercedes,1,mclaren,mclaren
+mercedes,2010,mercedes,131,mercedes,mercedes
+red bull-renault,2010,renault,9,red bull,red_bull
+ferrari,2010,ferrari,6,ferrari,ferrari
+williams-cosworth,2010,cosworth,3,williams,williams
+renault,2010,renault,4,renault,renault
+force india-mercedes,2010,mercedes,10,force india,force_india
+toro rosso-ferrari,2010,ferrari,5,toro rosso,toro_rosso
+lotus-cosworth,2010,cosworth,205,lotus,lotus_racing
+hrt-cosworth,2010,cosworth,164,hrt,hrt
+bmw sauber-ferrari,2010,ferrari,2,bmw sauber,bmw_sauber
+virgin-cosworth,2010,cosworth,166,virgin,virgin
+red bull racing-renault,2011,renault,9,red bull,red_bull
+mclaren-mercedes,2011,mercedes,1,mclaren,mclaren
+ferrari,2011,ferrari,6,ferrari,ferrari
+mercedes,2011,mercedes,131,mercedes,mercedes
+renault,2011,renault,4,renault,renault
+williams-cosworth,2011,cosworth,3,williams,williams
+force india-mercedes,2011,mercedes,10,force india,force_india
+sauber-ferrari,2011,ferrari,15,sauber,sauber
+toro rosso-ferrari,2011,ferrari,5,toro rosso,toro_rosso
+lotus-renault,2011,renault,205,lotus,lotus_racing
+hrt-cosworth,2011,cosworth,164,hrt,hrt
+virgin-cosworth,2011,cosworth,166,virgin,virgin
+red bull-renault,2012,renault,9,red bull,red_bull
+mclaren-mercedes,2012,mercedes,1,mclaren,mclaren
+ferrari,2012,ferrari,6,ferrari,ferrari
+mercedes,2012,mercedes,131,mercedes,mercedes
+lotus-renault,2012,renault,205,lotus,lotus_racing
+force india-mercedes,2012,mercedes,10,force india,force_india
+sauber-ferrari,2012,ferrari,15,sauber,sauber
+toro rosso-ferrari,2012,ferrari,5,toro rosso,toro_rosso
+williams-renault,2012,renault,3,williams,williams
+caterham-renault,2012,renault,207,caterham,caterham
+hrt-cosworth,2012,cosworth,164,hrt,hrt
+marussia-cosworth,2012,cosworth,206,marussia,marussia
+red bull-renault,2013,renault,9,red bull,red_bull
+ferrari,2013,ferrari,6,ferrari,ferrari
+mclaren-mercedes,2013,mercedes,1,mclaren,mclaren
+lotus-renault,2013,renault,205,lotus,lotus_racing
+mercedes,2013,mercedes,131,mercedes,mercedes
+sauber-ferrari,2013,ferrari,15,sauber,sauber
+force india-mercedes,2013,mercedes,10,force india,force_india
+williams-renault,2013,renault,3,williams,williams
+toro rosso-ferrari,2013,ferrari,5,toro rosso,toro_rosso
+caterham-renault,2013,renault,207,caterham,caterham
+marussia-cosworth,2013,cosworth,206,marussia,marussia
+caterham-renault,2014,renault,207,caterham,caterham
+ferrari,2014,ferrari,6,ferrari,ferrari
+forceindia-mercedes,2014,mercedes,211,racing point,racing_point
+lotus-renault,2014,renault,205,lotus,lotus_racing
+marussia-ferrari,2014,ferrari,206,marussia,marussia
+mclaren-mercedes,2014,mercedes,1,mclaren,mclaren
+mercedes,2014,mercedes,131,mercedes,mercedes
+red bull-renault,2014,renault,9,red bull,red_bull
+sauber-ferrari,2014,ferrari,15,sauber,sauber
+toro rosso-renault,2014,renault,5,toro rosso,toro_rosso
+williams-mercedes,2014,mercedes,3,williams,williams
+ferrari,2015,ferrari,6,ferrari,ferrari
+force india-mercedes,2015,mercedes,10,force india,force_india
+lotus-mercedes,2015,mercedes,205,lotus,lotus_racing
+marussia-ferrari,2015,ferrari,206,marussia,marussia
+mclaren-honda,2015,honda,1,mclaren,mclaren
+mercedes,2015,mercedes,131,mercedes,mercedes
+red bull-renault,2015,renault,9,red bull,red_bull
+sauber-ferrari,2015,ferrari,15,sauber,sauber
+toro rosso-renault,2015,renault,5,toro rosso,toro_rosso
+williams-mercedes,2015,mercedes,3,williams,williams
+ferrari,2016,ferrari,6,ferrari,ferrari
+force india-mercedes,2016,mercedes,10,force india,force_india
+haas-ferrari,2016,ferrari,210,haas f1 team,haas
+mclaren-honda,2016,honda,1,mclaren,mclaren
+mercedes,2016,mercedes,131,mercedes,mercedes
+mrt-mercedes,2016,mercedes,209,manor marussia,manor
+red bull racing-tag heuer,2016,tag heuer,9,red bull,red_bull
+renault,2016,renault,4,renault,renault
+sauber-ferrari,2016,ferrari,15,sauber,sauber
+toro rosso-ferrari,2016,ferrari,5,toro rosso,toro_rosso
+williams-mercedes,2016,mercedes,3,williams,williams
+ferrari,2017,ferrari,6,ferrari,ferrari
+force india-mercedes,2017,mercedes,10,force india,force_india
+haas-ferrari,2017,ferrari,210,haas f1 team,haas
+mclaren-honda,2017,honda,1,mclaren,mclaren
+mercedes,2017,mercedes,131,mercedes,mercedes
+red bull racing-tag heuer,2017,tag heuer,9,red bull,red_bull
+renault,2017,renault,4,renault,renault
+sauber-ferrari,2017,ferrari,15,sauber,sauber
+toro rosso,2017,toro rosso,5,toro rosso,toro_rosso
+williams-mercedes,2017,mercedes,3,williams,williams
+ferrari,2018,ferrari,6,ferrari,ferrari
+force india-mercedes,2018,mercedes,10,force india,force_india
+haas-ferrari,2018,ferrari,210,haas f1 team,haas
+mclaren-renault,2018,renault,1,mclaren,mclaren
+mercedes,2018,mercedes,131,mercedes,mercedes
+red bull racing-tag heuer,2018,tag heuer,9,red bull,red_bull
+renault,2018,renault,4,renault,renault
+sauber-ferrari,2018,ferrari,15,sauber,sauber
+scuderia toro rosso-honda,2018,honda,213,alphatauri,alphatauri
+williams-mercedes,2018,mercedes,3,williams,williams
+alfa romeo racing-ferrari,2019,ferrari,51,alfa romeo,alfa
+ferrari,2019,ferrari,6,ferrari,ferrari
+haas-ferrari,2019,ferrari,210,haas f1 team,haas
+mclaren-renault,2019,renault,1,mclaren,mclaren
+mercedes,2019,mercedes,131,mercedes,mercedes
+racing point-bwt mercedes,2019,bwt mercedes,211,racing point,racing_point
+red bull racing-honda,2019,honda,9,red bull,red_bull
+renault,2019,renault,4,renault,renault
+scuderia toro rosso-honda,2019,honda,213,alphatauri,alphatauri
+williams-mercedes,2019,mercedes,3,williams,williams
+alfa romeo racing-ferrari,2020,ferrari,51,alfa romeo,alfa
+alphatauri-honda,2020,honda,213,alphatauri,alphatauri
+ferrari,2020,ferrari,6,ferrari,ferrari
+haas-ferrari,2020,ferrari,210,haas f1 team,haas
+mclaren-renault,2020,renault,1,mclaren,mclaren
+mercedes,2020,mercedes,131,mercedes,mercedes
+racing point-bwt mercedes,2020,bwt mercedes,211,racing point,racing_point
+red bull racing-honda,2020,honda,9,red bull,red_bull
+renault,2020,renault,4,renault,renault
+williams-mercedes,2020,mercedes,3,williams,williams

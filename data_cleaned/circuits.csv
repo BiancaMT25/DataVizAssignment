@@ -1,0 +1,77 @@
+circuitId,circuitRef,name,location,country,lat,lng,alt,url,length,Turns,length_cleaned,length_val
+1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit,5.303 km (3.296 mi),16,5.303 ,5.303
+2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,\N,http://en.wikipedia.org/wiki/Sepang_International_Circuit,5.543 km (3.445 mi),15,5.543 ,5.542999999999999
+3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,26.0325,50.5106,\N,http://en.wikipedia.org/wiki/Bahrain_International_Circuit,5.412 km (3.363 mi),15,5.412 ,5.412000000000001
+4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,\N,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya,4.655 km (2.892 mi),16,4.655 ,4.655
+5,istanbul,Istanbul Park,Istanbul,Turkey,40.9517,29.405,\N,http://en.wikipedia.org/wiki/Istanbul_Park,5.338 km (3.317 mi),14,5.338 ,5.337999999999999
+6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.420560000000001,\N,http://en.wikipedia.org/wiki/Circuit_de_Monaco,3.337 km (2.074 mi),19,3.337 ,3.3369999999999997
+7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,\N,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve,4.361 km (2.71 mi),14,4.361 ,4.361000000000001
+8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,\N,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours,4.412 km (2.741 mi),17,4.412 ,4.412
+9,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,\N,http://en.wikipedia.org/wiki/Silverstone_Circuit,5.891[1] km (3.661 mi),18,5.891 ,5.891
+10,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,\N,http://en.wikipedia.org/wiki/Hockenheimring,4.574 km (2.842 mi),17,4.574 ,4.574
+11,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,\N,http://en.wikipedia.org/wiki/Hungaroring,4.381 km (2.722 mi),14,4.381 ,4.381
+12,valencia,Valencia Street Circuit,Valencia,Spain,39.4589,-0.331667,\N,http://en.wikipedia.org/wiki/Valencia_Street_Circuit,5.419 km (3.367 mi),25,5.419 ,5.419
+13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,\N,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps,7.004 km (4.352 mi),19,7.004 ,7.004
+14,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,\N,http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza,5.793[3][4] km (3.600 mi),11,5.793 ,5.792999999999999
+15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,1.2914,103.864,\N,http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit,5.063 km (3.146 mi),23,5.063 ,5.063
+16,fuji,Fuji Speedway,Oyama,Japan,35.3717,138.92700000000002,\N,http://en.wikipedia.org/wiki/Fuji_Speedway,4.563 km (2.835 mi),16,4.563 ,4.563
+17,shanghai,Shanghai International Circuit,Shanghai,China,31.3389,121.22,\N,http://en.wikipedia.org/wiki/Shanghai_International_Circuit,not found,not found,not found,
+18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace,not found,not found,not found,
+19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,\N,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway,2.500 mi (4.023 km),4,2.500 ,2.5
+20,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,\N,http://en.wikipedia.org/wiki/N%C3%BCrburgring,5.148 km (3.199 mi),15,5.148 ,5.148
+21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,\N,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari,4.909 km (3.050 mi),19,4.909 ,4.909
+22,suzuka,Suzuka Circuit,Suzuka,Japan,34.8431,136.541,\N,http://en.wikipedia.org/wiki/Suzuka_Circuit,5.807 km (3.609 mi),18,5.807 ,5.807
+23,osterreichring,A1-Ring,Spielburg,Austria,47.2197,14.7647,\N,http://en.wikipedia.org/wiki/A1-Ring,not found,not found,not found,
+24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,\N,http://en.wikipedia.org/wiki/Yas_Marina_Circuit,5.554 km (3.451 mi),21,5.554 ,5.553999999999999
+25,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez,4.259 km (2.614 mi),19,4.259 ,4.2589999999999995
+26,jerez,Circuito de Jerez,Jerez de la Frontera,Spain,36.7083,-6.03417,\N,http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez,4.428 km (2.751 mi),13,4.428 ,4.428
+27,estoril,Autódromo do Estoril,Estoril,Portugal,38.7506,-9.39417,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril,4.182 km (2.599 mi),13,4.182 ,4.1819999999999995
+28,okayama,Okayama International Circuit,Okayama,Japan,34.915,134.221,\N,http://en.wikipedia.org/wiki/TI_Circuit,3.703 km (2.300 mi),13,3.703 ,3.7030000000000003
+29,adelaide,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.61700000000002,\N,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit,3.780 km (2.349 mi),16,3.780 ,3.78
+30,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,\N,http://en.wikipedia.org/wiki/Kyalami,4.529 km (2.814 mi),16,4.529 ,4.529
+31,donington,Donington Park,Castle Donington,UK,52.8306,-1.3752799999999998,\N,http://en.wikipedia.org/wiki/Donington_Park,4.020 km (2.498 mi),12,4.020 ,4.02
+32,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez,4.304[1] km (2.674 mi),17[1],4.304 ,4.303999999999999
+33,phoenix,Phoenix street circuit,Phoenix,USA,33.4479,-112.075,\N,http://en.wikipedia.org/wiki/Phoenix_street_circuit,3.800 km (2.361 mi),15,3.800 ,3.8
+34,ricard,Circuit Paul Ricard,Le Castellet,France,43.2506,5.79167,\N,http://en.wikipedia.org/wiki/Paul_Ricard_Circuit,5.842 km (3.630 mi),15,5.842 ,5.8420000000000005
+35,yeongam,Korean International Circuit,Yeongam County,Korea,34.7333,126.417,\N,http://en.wikipedia.org/wiki/Korean_International_Circuit,5.615 km (3.489 mi),18,5.615 ,5.615
+36,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,\N,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet,5.031 km (3.126 mi),11,5.031 ,5.031000000000001
+37,detroit,Detroit Street Circuit,Detroit,USA,42.3298,-83.0401,\N,http://en.wikipedia.org/wiki/Detroit_street_circuit,4.168 km (2.590 mi),24,4.168 ,4.168
+38,brands_hatch,Brands Hatch,Kent,UK,51.3569,0.263056,\N,http://en.wikipedia.org/wiki/Brands_Hatch,3.908 km (2.433 mi),9,3.908 ,3.908
+39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,\N,http://en.wikipedia.org/wiki/Circuit_Zandvoort,4.259 km (2.646 mi),14,4.259 ,4.2589999999999995
+40,zolder,Zolder,Heusden-Zolder,Belgium,50.9894,5.25694,\N,http://en.wikipedia.org/wiki/Zolder,4.011 km (2.492 mi),10,4.011 ,4.011
+41,dijon,Dijon-Prenois,Dijon,France,47.3625,4.89913,\N,http://en.wikipedia.org/wiki/Dijon-Prenois,3.800 km (2.361 mi),9,3.800 ,3.8
+42,dallas,Fair Park,Dallas,USA,32.7774,-96.7587,\N,http://en.wikipedia.org/wiki/Fair_Park,2.424 mi (3.901 km),14,2.424 ,2.424
+43,long_beach,Long Beach,California,USA,33.7651,-118.189,\N,"http://en.wikipedia.org/wiki/Long_Beach,_California",,,not found,
+44,las_vegas,Las Vegas Street Circuit,Nevada,USA,36.1162,-115.174,\N,"http://en.wikipedia.org/wiki/Las_Vegas,_Nevada",,,not found,
+45,jarama,Jarama,Madrid,Spain,40.6171,-3.58558,\N,http://en.wikipedia.org/wiki/Circuito_Permanente_Del_Jarama,3.850 km (2.392 mi),11,3.850 ,3.85
+46,watkins_glen,Watkins Glen,New York State,USA,42.3369,-76.9272,\N,http://en.wikipedia.org/wiki/Watkins_Glen_International,3.40 mi (5.43 km),11,3.40 ,3.4
+47,anderstorp,Scandinavian Raceway,Anderstorp,Sweden,57.2653,13.6042,\N,http://en.wikipedia.org/wiki/Scandinavian_Raceway,4.025 km (2.501 mi),,4.025 ,4.025
+48,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,\N,http://en.wikipedia.org/wiki/Mosport,3.957 km (2.459 mi),10,3.957 ,3.957
+49,montjuic,Montjuïc,Barcelona,Spain,41.3664,2.15167,\N,http://en.wikipedia.org/wiki/Montju%C3%AFc_circuit,3.79 km (2.35 mi),12,3.79 ,3.79
+50,nivelles,Nivelles-Baulers,Brussels,Belgium,50.6211,4.3269400000000005,\N,http://en.wikipedia.org/wiki/Nivelles-Baulers,3.72 km (2.314 mi),7,3.72 ,3.72
+51,charade,Charade Circuit,Clermont-Ferrand,France,45.7472,3.0388900000000003,\N,http://en.wikipedia.org/wiki/Charade_Circuit,3.975 km (2.470 mi),18,3.975 ,3.975
+52,tremblant,Circuit Mont-Tremblant,Quebec,Canada,46.1877,-74.6099,\N,http://en.wikipedia.org/wiki/Circuit_Mont-Tremblant,2.65 mi (4.26 km),17,2.65 ,2.65
+53,essarts,Rouen-Les-Essarts,Rouen,France,49.3306,1.00458,\N,http://en.wikipedia.org/wiki/Rouen-Les-Essarts,5.543 km (3.444 mi),13,5.543 ,5.542999999999999
+54,lemans,Le Mans,Le Mans,France,47.95,0.224231,\N,http://en.wikipedia.org/wiki/Circuit_de_la_Sarthe#Bugatti_Circuit,13.626 km (8.467 mi),38,13.626 ,13.626
+55,reims,Reims-Gueux,Reims,France,49.2542,3.93083,\N,http://en.wikipedia.org/wiki/Reims-Gueux,7.816 km (4.856 mi),8,7.816 ,7.816
+56,george,Prince George Circuit,Eastern Cape Province,South Africa,-33.0486,27.8736,\N,http://en.wikipedia.org/wiki/Prince_George_Circuit,not found,not found,not found,
+57,zeltweg,Zeltweg,Styria,Austria,47.2039,14.7478,\N,http://en.wikipedia.org/wiki/Zeltweg_Airfield,,,not found,
+58,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,\N,http://en.wikipedia.org/wiki/Aintree_Motor_Racing_Circuit,4.828 km (3.000 mi),8,4.828 ,4.828
+59,boavista,Circuito da Boavista,Oporto,Portugal,41.1705,-8.67325,\N,http://en.wikipedia.org/wiki/Circuito_da_Boavista,,,not found,
+60,riverside,Riverside International Raceway,California,USA,33.937,-117.273,\N,http://en.wikipedia.org/wiki/Riverside_International_Raceway,5.3 km (3.3 mi),9,5.3 ,5.3
+61,avus,AVUS,Berlin,Germany,52.4806,13.2514,\N,http://en.wikipedia.org/wiki/AVUS,8.300 (1959 GP) km (5.157 mi),4,8.300 ,8.3
+62,monsanto,Monsanto Park Circuit,Lisbon,Portugal,38.7197,-9.20306,\N,http://en.wikipedia.org/wiki/Monsanto_Park_Circuit,,,not found,
+63,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,\N,http://en.wikipedia.org/wiki/Sebring_Raceway,3.74 mi (6.02 km),17,3.74 ,3.74
+64,ain-diab,Ain Diab,Casablanca,Morocco,33.5786,-7.6875,\N,http://en.wikipedia.org/wiki/Ain-Diab_Circuit,7.602 km (4.724 mi),not found,7.602 ,7.602
+65,pescara,Pescara Circuit,Pescara,Italy,42.475,14.1508,\N,http://en.wikipedia.org/wiki/Pescara_Circuit,25.8 km (16.032 mi),not found,25.8 ,25.8
+66,bremgarten,Circuit Bremgarten,Bern,Switzerland,46.9589,7.40194,\N,http://en.wikipedia.org/wiki/Circuit_Bremgarten,7.28 km (4.524 mi),13,7.28 ,7.28
+67,pedralbes,Circuit de Pedralbes,Barcelona,Spain,41.3903,2.11667,\N,http://en.wikipedia.org/wiki/Pedralbes_Circuit,6.333 km (3.936 mi),6,6.333 ,6.332999999999999
+68,buddh,Buddh International Circuit,Uttar Pradesh,India,28.3487,77.5331,\N,http://en.wikipedia.org/wiki/Buddh_International_Circuit,5.125 km (3.185 mi),16,5.125 ,5.125
+69,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,\N,http://en.wikipedia.org/wiki/Circuit_of_the_Americas,3.426 mi (5.513 km),20,3.426 ,3.426
+70,red_bull_ring,Red Bull Ring,Spielburg,Austria,47.2197,14.7647,\N,http://en.wikipedia.org/wiki/Red_Bull_Ring,not found,not found,not found,
+71,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,\N,http://en.wikipedia.org/wiki/Sochi_Autodrom,5.848 km (3.634 mi),18,5.848 ,5.848
+72,port_imperial,Port Imperial Street Circuit,New Jersey,USA,40.7769,-74.0111,\N,http://en.wikipedia.org/wiki/Port_Imperial_Street_Circuit,3.2 mi (5.2 km),19,3.2 ,3.2
+73,BAK,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,\N,http://en.wikipedia.org/wiki/Baku_City_Circuit,6.003 km (3.73 mi),20,6.003 ,6.002999999999999
+74,hanoi,Hanoi Street Circuit,Hanoi,Vietnam,21.0166,105.766,\N,http://en.wikipedia.org/wiki/Hanoi_Street_Circuit,5.613 km (3.488 mi),23[1],5.613 ,5.6129999999999995
+75,portimao,Autódromo Internacional do Algarve,Portimão,Portugal,37.227,-8.6267,\N,http://en.wikipedia.org/wiki/Algarve_International_Circuit,4.653 km (2.891 mi),15,4.653 ,4.6530000000000005
+76,mugello,Autodromo Internazionale del Mugello,Mugello,Italy,43.9975,11.3719,\N,http://en.wikipedia.org/wiki/Mugello_Circuit,5.245 km (3.259 mi),15,5.245 ,5.245
