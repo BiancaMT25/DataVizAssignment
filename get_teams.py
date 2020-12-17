@@ -36,3 +36,5 @@ main_drivers.to_csv(r"data_cleaned\main_drivers .csv", index=False)
 
 constructors["constructorRef_mapped"] = constructors['constructorRef'].map(reversed_constructor_map)
 constructors.to_csv(r"data_cleaned\constructors.csv", index=False)
+
+
